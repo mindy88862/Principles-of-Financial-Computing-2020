@@ -1,5 +1,5 @@
 # Principles-of-Financial-Computing
-NTU CSIE Principles of Financial Computing
+NTU CSIE Principles of Financial Computing 2020
 
 ## hw1
 Write a program to calculate the modified duration and convexity of a cash flow. All numbers are period based for simplicity. Inputs: (1) s (spot rates), (2) C (cash flows). Output: (1) modified duration and (2) convexity. For example, assume s = [0.053, 0.051, 0.049, 0.047, 0.040] and C = [3, 2, 3, 2, 103]. Then the modified duration is 4.5624 and convexity is 0.2588.
